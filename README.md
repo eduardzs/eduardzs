@@ -11,8 +11,10 @@
     <li>👾 Technological Content Creator</li>
 </ul>
 
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=eduardzs&show_icons=true&theme=jolly&include_all_commits=true&count_private=true" alt="Dados">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardzs&&layout=compact&hide=shell&theme=jolly" alt="Dados">
+</p>
 
 <h2>Skills 🤓</h2>
 <p align="center">
@@ -22,7 +24,7 @@
 </p>
 
 <h2>Contact 🖖🏾</h2>
-<a href="mailto:contato@eduardofonseca0210" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"alt="Gmail" target="_blank"></a>
+<a href="mailto:eduardofonseca0210@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"alt="Gmail" target="_blank"></a>
 <a href="https://www.linkedin.com/in/eduardsz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"></a>
 <a href="https://www.instagram.com/eduardzs_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" target="_blank"></a>
 
