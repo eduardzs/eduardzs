@@ -28,6 +28,8 @@
 <a href="https://www.linkedin.com/in/eduardsz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"></a>
 <a href="https://www.instagram.com/eduardzs_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" target="_blank"></a>
 
+![Snake animation](https://github.com/eduardzs/eduardzs/blob/output/github-contribution-grid-snake.svg)
+
 <h2>Total de Visitas no Perfil 🕵🏾‍♂️</h2>
 <p align="center">
    <img src="https://profile-counter.glitch.me/eduardzs/count.svg" alt="Contador de Views"> 
