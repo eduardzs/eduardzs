@@ -3,7 +3,7 @@
 <h1>Hey, thanks for your visit 😉</h1>
 <p>My name is Eduardo Fonseca, I was born and raised in <strong>Brazil</strong>, I have been working as a Front-end developer since 2020. 👨🏾‍💻<br>My hobby is learning and    solving problems, always ready for new challenges and changes totally out of my comfort zone. 🧠</p>
 
-<p align="center"><strong>"You can do anything!" 🥇</strong></p>
+<p><strong>"You can do anything!" 🥇</strong></p>
 
 <ul>
     <li>📍 I live in <strong>Brazil</strong>, more specifically in the state of <strong>Minas Gerais</strong></li>
@@ -24,7 +24,7 @@
 </p>
 
 <h2>Contact 🖖🏾</h2>
-<a href="mailto:eduardofonseca0210@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"alt="Gmail" target="_blank"></a>
+<a href="mailto:eduardofonseca0210@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"alt="Gmail" target="_blank"></a>
 <a href="https://www.linkedin.com/in/eduardsz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"></a>
 <a href="https://www.instagram.com/eduardzs_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" target="_blank"></a>
 
