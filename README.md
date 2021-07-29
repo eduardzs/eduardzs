@@ -3,7 +3,7 @@
 <h1>Hey, thanks for your visit 😉</h1>
 <p>My name is Eduardo Fonseca, I was born and raised in <strong>Brazil</strong>, I have been working as a Front-end developer since 2020. 👨🏾‍💻<br>My hobby is learning and    solving problems, always ready for new challenges and changes totally out of my comfort zone. 🧠</p>
 
-<p><strong>"You can do anything!" 🥇</strong></p>
+<p align="center"><strong>"You can do anything!" 🥇</strong></p>
 
 <ul>
     <li>📍 I live in <strong>Brazil</strong>, more specifically in the state of <strong>Minas Gerais</strong></li>
@@ -17,7 +17,7 @@
 </p>
 
 <h2>Skills 🤓</h2>
-<p align="center">
+<p align="leaft">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="EduJs" height="40 width="50">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="EduHtml" height="40 width="50">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="EduCss" height="40 width="50">
