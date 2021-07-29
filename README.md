@@ -1,5 +1,5 @@
 <a href="https://github.com/eduardzs">
-<img src="logo.png" alt="Meu Banner">
+<img src="images/logo.png" alt="Meu Banner">
 
 ##Hey, thanks for your visit 😉
 <p>My name is Eduardo Fonseca, I was born and raised in <strong>Brazil</strong>, I have been working as a Front-end developer since 2020. 👨🏾‍💻<br>My hobby is learning and    solving problems, always ready for new challenges and changes totally out of my comfort zone. 🧠</p>
@@ -16,10 +16,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardzs&&layout=compact&hide=shell&theme=jolly" alt="Dados">
 
 ##Skills 🤓
-<p style="height="40"; width="50"> align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="EduJs">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="EduHtml">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="EduCss">
+<p align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="EduJs" height="40 width="50">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="EduHtml" height="40 width="50">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="EduCss" height="40 width="50">
 </p>
 
 ##Contact 🖖🏾
