@@ -1,7 +1,8 @@
 <img src="images/logo.png" alt="Meu Banner">
 
 <h1>Hey, thanks for your visit 😉</h1>
-<p>My name is Eduardo Fonseca, I was born and raised in <strong>Brazil</strong>, I have been working as a Front-end developer since 2020 👨🏿‍💻. My hobby is learning and solving problems, always ready for new challenges and changes totally out of my comfort zone. 🧠</p>
+<p>My name is Eduardo Fonseca, I was born and raised in <strong>Brazil</strong>, I have been working as a Front-end developer since 2020 👨🏿‍💻.</p> 
+<p>My hobby is learning and solving problems, always ready for new challenges and changes totally out of my comfort zone. 🧠</p>
 
 <p><strong>"You can do anything!" 🥇</strong></p>
 
