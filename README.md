@@ -1,6 +1,6 @@
 <img src="images/logo.png" alt="Meu Banner">
 
-<h1>Hey, thanks for your visit 😉</h1>
+<h1>Ei, obrigado pela sua visita 😉</h1>
 <p>Meu nome é Eduardo Fonseca, nasci e cresci no <strong> Brasil </strong>, trabalho como desenvolvedor Front-end desde 2020 👨🏿‍💻. <br> Meu hobby é aprender e resolver problemas, sempre pronto para novos desafios e mudanças totalmente fora da minha zona de conforto. 🧠</p> 
 
 <p><strong>"You can do anything!" 🥇</strong></p>
