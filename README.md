@@ -1,6 +1,7 @@
+<h1>Ei, obrigado pela sua visita 😉</h1>
+
 <img src="images/logo.png" alt="Meu Banner">
 
-<h1>Ei, obrigado pela sua visita 😉</h1>
 <p>Meu nome é <strong>Eduardo Luiz Fonseca</strong>, nasci e cresci no <strong> Brasil </strong>, trabalho como desenvolvedor Front-end desde 2020 👨🏿‍💻. Meu hobby é aprender e resolver problemas, sempre pronto para novos desafios e mudanças totalmente fora da minha zona de conforto. 🧠</p>
 
 <p><strong>"You can do anything!" 🥇</strong></p>
@@ -12,15 +13,16 @@
 </ul><br>
 
 <p align="center">
+<a href="https://github.com/eduardzs">
 <img src="https://github-readme-stats.vercel.app/api?username=eduardzs&show_icons=true&theme=jolly&include_all_commits=true&count_private=true" alt="Dados">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardzs&&layout=compact&hide=shell&theme=jolly" alt="Dados">
 </p><br>
 
-<h2>Skills 🤓 <img align="right" alt="Edu-CAT" height="140" width="140" src="images/cat-computer.gif"></h2>
+<h2>Skills 🤓 <img align="right" alt="Edu-CAT" height="130" width="130" src="images/cat-computer.gif"></h2>
 <div style="display: inline_block">
-  <img align="center" alt="Edu-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Edu-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Edu-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div><br>
 
 <h2>Contatos 🖖🏾</h2>
