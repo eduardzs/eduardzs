@@ -9,7 +9,7 @@
 <ul>
     <li>📍 Eu moro no <strong> Brasil </strong>, mais especificamente no estado de <strong> Minas Gerais.</strong></li>
     <li>👨🏾‍💻 A procura de uma vaga de emprego na área de <strong>Desenvolvimento Front-end.</strong></li>
-    <li>👾 <strong>Criador de conteúdo</strong> tecnológico.</li>
+    <li>👾 <strong>Criador de conteúdo</strong> sobre <strong>Programação</strong>.</li>
 </ul><br>
 
 <p align="center">
@@ -18,7 +18,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardzs&&layout=compact&hide=shell&theme=jolly" alt="Dados">
 </p><br>
 
-<h2>Skills 🤓 <img align="right" alt="Edu" height="140" width="140" src="images/gif.gif"></h2>
+<h2>Skills 🤓 <img align="right" alt="Edu" height="140" width="140" src="images/gif2.gif"></h2>
 <div style="display: inline_block">
   <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
