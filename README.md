@@ -1,4 +1,4 @@
-<h1>Ei, obrigado pela sua visita 😉</h1>
+<h1>Ei, obrigado pela sua visita! 👋🏿</h1>
 
 <img src="images/banner.png" alt="Meu Banner">
 
@@ -18,7 +18,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardzs&&layout=compact&hide=shell&theme=jolly" alt="Dados">
 </p><br>
 
-<h2>Skills 🤓 <img align="right" alt="Edu" height="130" width="130" src="images/gif.gif"></h2>
+<h2>Skills 🤓 <img align="right" alt="Edu" height="140" width="140" src="images/gif.gif"></h2>
 <div style="display: inline_block">
   <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
