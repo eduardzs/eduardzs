@@ -1,6 +1,6 @@
 <h1>Ei, obrigado pela sua visita! 👋🏿</h1>
 
-<img src="images/banner.png" alt="Meu Banner">
+<img src="img/my-banner.png" alt="Meu Banner">
 
 <p>Meu nome é <strong>Eduardo Luiz Fonseca</strong>, nasci e cresci no <strong> Brasil </strong>, trabalho como desenvolvedor Front-end desde 2020 👨🏿‍💻. Meu hobby é aprender e resolver problemas, sempre pronto para novos desafios e mudanças totalmente fora da minha zona de conforto. 🧠</p>
 
@@ -18,7 +18,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardzs&&layout=compact&hide=shell&theme=jolly" alt="Dados">
 </p><br>
 
-<h2>Skills 🤓 <img align="right" alt="Edu" height="140" width="140" src="images/gif2.gif"></h2>
+<h2>Skills 🤓 <img align="right" alt="Edu" height="140" width="140" src="img/mygif.gif"></h2>
 <div style="display: inline_block">
   <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
