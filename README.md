@@ -13,7 +13,7 @@
         <a href="https://www.linkedin.com/in/eduardsz/" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/eduardzs"/></a>
      </div>
-</div><hr>
+</div><br>
 
 <div  align="center">   
     <a href="https://github.com/eduardzs">
