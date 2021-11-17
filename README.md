@@ -1,5 +1,3 @@
-<h1 align="center">Ei, obrigado pela sua visita! 🎈</h1>
-
 <div>
     <img align="right" src="img.png" alt="Imagem" min-width="400px" max-width="400px" width="400px" align="right">
     <div align="left"><br>
