@@ -1,5 +1,5 @@
 <div>
-    <h1 align="center">Ei, obrigado pela sua visita! 😉</h1>
+    <h1>☕ Ei, obrigado pela sua visita!</h1>
 </div>
 <div>
     <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Imagem" min-width="400px" max-width="400px" width="400px" align="right">
@@ -14,4 +14,11 @@
         <a href="https://www.linkedin.com/in/eduardsz/" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/eduardzs"/></a>
      </div>
+</div><br>
+
+<div align="center">
+    <h1>⚙️ GitHub Analytics</h1>
+    <a href="https://github.com/eduardzs">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardzs&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=00FFFF&icon_color=00FFFF&border_color=00FFFF">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dark&title_color=00FFFF&icon_color=00FFFF&border_color=00FFFF">
 </div>
