@@ -1,5 +1,7 @@
 <div>
     <h1 align="center">Ei, obrigado pela sua visita! 🎈</h1>
+</div>
+<div>
     <img align="right" src="img.png" alt="Imagem" min-width="400px" max-width="400px" width="400px" align="right">
     <div align="left"><br>
         <p>📌 Olá, me chamo Eduardo Fonseca. Sou <strong>Desenvolvedor Front-end</strong>.</p>
