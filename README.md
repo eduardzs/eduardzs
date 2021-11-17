@@ -15,9 +15,9 @@
      </div>
 </div><hr>
 
-<div>   
+<div  align="left">   
     <a href="https://github.com/eduardzs">
-    <img  align="left" src="https://github-readme-stats.vercel.app/api?username=eduardzs&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=00FFFF&border_color=00FFFF&title_color=00FFFF" alt="Dados">
-    <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardzs&&layout=compact&hide=shell&theme=dark&icon_color=00FFFF&border_color=00FFFF&title_color=00FFFF" alt="Dados">
+    <img src="https://github-readme-stats.vercel.app/api?username=eduardzs&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=00FFFF&border_color=00FFFF&title_color=00FFFF" alt="Dados">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardzs&&layout=compact&hide=shell&theme=dark&icon_color=00FFFF&border_color=00FFFF&title_color=00FFFF" alt="Dados">
 </div>
     
