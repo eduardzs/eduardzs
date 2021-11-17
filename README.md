@@ -16,7 +16,7 @@
      </div>
 </div><br>
 
-<div align="center">
+<div>
     <h1>⚙️ GitHub Analytics</h1>
     <a href="https://github.com/eduardzs">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardzs&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=00FFFF&icon_color=00FFFF&border_color=00FFFF">
