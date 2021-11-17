@@ -2,7 +2,7 @@
 
 <div>
     <img align="right" src="image.png" alt="Imagem" min-width="400px" max-width="400px" width="400px" align="right">
-    <div align="left">
+    <div align="left"><br>
         <p>📌 Olá, me chamo Eduardo Fonseca. Sou <strong>Desenvolvedor Front-end</strong>.</p>
         <p>🧠 Habilidades: <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>.</p>
         <p>💼 Ferramentas: <strong>VSCode</strong>, <strong>Canva</strong>, <strong>Notion</strong>, <strong>Git</strong> e <strong>GitHub</strong>.<p>
@@ -13,7 +13,7 @@
         <a href="https://www.linkedin.com/in/eduardsz/" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/eduardzs"/></a>
      </div>
-</div><br>
+</div><br><hr>
 
 <div  align="center">   
     <a href="https://github.com/eduardzs">
