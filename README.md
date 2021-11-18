@@ -5,6 +5,7 @@
     <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Imagem" min-width="400px" max-width="400px" width="400px" align="right">
     <div align="left"><br>
         <p>📌 Olá, me chamo Eduardo Fonseca. Sou <strong>Desenvolvedor Front-end</strong>.</p>
+        <p>🗺️ Resido atualmente no <strong>Brasil</strong>, mais especificamente no estado de <strong>Minas Gerais</strong>.</p>
         <p>🧠 Habilidades: <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>.</p>
         <p>💼 Ferramentas: <strong>VSCode</strong>, <strong>Canva</strong>, <strong>Notion</strong>, <strong>Git</strong> e <strong>GitHub</strong>.<p>
         <p>💌 Sinta-se à vontade para me enviar uma mensagem.</p>
@@ -16,7 +17,7 @@
      </div>
 </div><br>
 
-<div>
+<div align="center">
     <h1>⚙️ GitHub Analytics</h1>
     <a href="https://github.com/eduardzs">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardzs&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=00FFFF&icon_color=00FFFF&border_color=00FFFF">
