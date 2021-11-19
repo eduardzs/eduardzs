@@ -32,6 +32,6 @@
 ![Snake animation](https://github.com/eduardzs/eduardzs/blob/output/github-contribution-grid-snake.svg)
 
 <p style="font-size: 20px;">🔎 Total de Visitas<p>
-<img alingn="center" src="https://profile-counter.glitch.me/eduardzs/count.svg" />
+<img alingn="center" src="https://profile-counter.glitch.me/eduardzs/count.svg"/>
 </div>
         
