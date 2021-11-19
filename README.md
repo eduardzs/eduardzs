@@ -1,4 +1,4 @@
-<div>
+<div align="center">
     <h1>☕ Ei, obrigado pela sua visita!</h1>
 </div>
 <div>
@@ -17,7 +17,7 @@
      </div>
 </div><br>
 
-<div>
+<div align="center">
     <h1>⚙️ GitHub Analytics</h1>
     <div align="center">
         <a href="https://github.com/eduardzs">
@@ -26,5 +26,12 @@
     </div>
 </div>
 
-    ![Snake animation](https://github.com/eduardzs/eduardzs/blob/output/github-contribution-grid-snake.svg)
-    
+<div align="center"><br>
+    <h1>✅ Commits<h1>
+        
+![Snake animation](https://github.com/eduardzs/eduardzs/blob/output/github-contribution-grid-snake.svg)
+
+<p style="font-size: 20px;">🔎 Total de Visitas<p>
+<img alingn="center" src="https://profile-counter.glitch.me/eduardzs/count.svg" />
+</div>
+        
