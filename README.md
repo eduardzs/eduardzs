@@ -25,3 +25,6 @@
         <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardzs&layout=compact&langs_count=7&theme=dracula&title_color=00FFFF&icon_color=00FFFF&border_color=00FFFF">
     </div>
 </div>
+
+    ![Snake animation](https://github.com/eduardzs/eduardzs/blob/output/github-contribution-grid-snake.svg)
+    
