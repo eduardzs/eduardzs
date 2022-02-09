@@ -7,7 +7,7 @@
         <p>📌 Olá, me chamo Eduardo Fonseca. Sou <strong>Desenvolvedor Front-end</strong>.</p>
         <p>🗺️ Resido atualmente no <strong>Brasil</strong>, mais especificamente no estado de <strong>Minas Gerais</strong>.</p>
         <p>🧠 Habilidades: <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>.</p>
-        <p>💼 Ferramentas: <strong>VSCode</strong>, <strong>Canva</strong>, <strong>Notion</strong>, <strong>Git</strong> e <strong>GitHub</strong>.<p>
+        <p>💼 Ferramentas: <strong>VSCode</strong>, <strong>Canva</strong>,<strong>Figma</strong>, <strong>Notion</strong>, <strong>Git</strong> e <strong>GitHub</strong>.<p>
         <p>💌 Sinta-se à vontade para me enviar uma mensagem.</p>
         <p align="left">
         <a href="https://www.instagram.com/eduardzs_/" alt="Instagram">
