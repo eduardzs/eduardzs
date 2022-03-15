@@ -12,6 +12,8 @@
         <p align="left">
         <a href="https://linktr.ee/eduardzs" alt="Linktree">
         <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"/></a>
+        <a href="mailton:eduardofonseca0210@gmail.com?" alt="Gmail">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
      </div>
 </div><br>
 
