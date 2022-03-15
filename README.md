@@ -10,10 +10,8 @@
         <p>💼 Ferramentas: <strong>VSCode</strong>, <strong>Figma</strong>, <strong>Notion</strong>, <strong>Git</strong> e <strong>GitHub</strong>.<p>
         <p>💌 Sinta-se à vontade para me enviar uma mensagem.</p>
         <p align="left">
-        <a href="https://www.instagram.com/eduardzs_/" alt="Instagram">
-        <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/eduardzs"/></a>
-        <a href="https://www.linkedin.com/in/eduardsz/" alt="LinkedIn">
-        <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/eduardzs"/></a>
+        <a href="https://linktr.ee/eduardzs" alt="Linktree">
+        <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"/></a>
      </div>
 </div><br>
 
