@@ -6,8 +6,8 @@
     <div align="left"><br>
 		<p>📌 Olá, me chamo <strong>Eduardo Fonseca</strong>, sou <strong>Desenvolvedor Front-end</strong>.</p>
         <p>🗺️ Resido atualmente no <strong>Brasil</strong>, mais especificamente no estado de <strong>Minas Gerais</strong>.</p>
-        <p>🧠 Habilidades: <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>.</p>
-        <p>💼 Ferramentas: <strong>VSCode</strong>, <strong>Figma</strong>, <strong>Notion</strong>, <strong>Git</strong> e <strong>GitHub</strong>.<p>
+        <p>🧠 Habilidades: <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>Git</strong> e <strong>GitHub</strong>.</p>
+        <p>💼 Ferramentas: <strong>VSCode</strong>, <strong>Figma</strong>, <strong>Notion</strong>.<p>
         <p>💌 Sinta-se à vontade para me enviar uma mensagem.</p>
         <p align="left">
 		<a href="https://www.linkedin.com/in/eduardzs/">
