@@ -4,10 +4,10 @@
 <div>
     <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Imagem" min-width="400px" max-width="400px" width="400px" align="right">
     <div align="left"><br>
-		<p>📌 Olá, me chamo <strong>Eduardo Fonseca</strong>, sou <strong>Desenvolvedor Web</strong>.</p>
+		<p>📌 No ultimo ano venho estudando o <strong>Desenvolvimento Web</strong>, dominando as tecnologias do <strong>Front-end</strong> e visando em me tornar um desenvolvedor <strong>Full-Stack</strong>.</p>
         <p>🗺️ Resido atualmente no <strong>Brasil</strong>, mais especificamente no estado de <strong>Minas Gerais</strong>.</p>
         <p>🧠 Habilidades: <strong>HTML</strong>, <strong>CSS</strong>, <strong>ReactJS</strong>, <strong>NodeJS</strong>, <strong>Git</strong> e <strong>GitHub</strong>.</p>
-        <p>💼 Ferramentas: <strong>VSCode</strong>, <strong>Figma</strong>, <strong>Notion</strong>.<p>
+        <p>📚 Estou sempre em constante aprendizagem e evolução. No momento, estou aberto à novas oportunidades.<p>
         <p>💌 Sinta-se à vontade para me enviar uma mensagem.</p>
         <p align="left">
 		<a href="https://www.linkedin.com/in/eduardzs/">
