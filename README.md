@@ -6,7 +6,7 @@
     <div align="left"><br>
 		<p>📌 No ultimo ano venho estudando o <strong>Desenvolvimento Web</strong>, dominando as tecnologias do <strong>Front-end</strong> e visando em me tornar um desenvolvedor <strong>Full-Stack</strong>.</p>
         <p>🗺️ Resido atualmente no <strong>Brasil</strong>, mais especificamente no estado de <strong>Minas Gerais</strong>.</p>
-        <p>🧠 Conhecimento: <strong>HTML</strong>, <strong>CSS</strong>, <strong>ReactJS</strong>, <strong>NodeJS</strong>, <strong>Git</strong> e <strong>GitHub</strong>.</p>
+        <p>🧠 Conhecimentos: <strong>HTML</strong>, <strong>CSS</strong>, <strong>ReactJS</strong>, <strong>NodeJS</strong>, <strong>Git</strong> e <strong>GitHub</strong>.</p>
         <p>📚 Estou sempre em constante aprendizagem e evolução. No momento, estou aberto à novas oportunidades.<p>
         <p>💌 Sinta-se à vontade para me enviar uma mensagem.</p>
         <p align="left">
