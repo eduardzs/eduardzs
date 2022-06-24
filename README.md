@@ -2,7 +2,7 @@
     <h1>Ei, obrigado pela sua visita! 🖖🏿</h1>
 </div>
 
-<div>
+<div align:"center">
     <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Imagem" min-width="400px" max-width="400px" width="400px" align="right">
     <div align="left"><br>
 	<p>📌 No ultimo ano venho estudando o <strong>Desenvolvimento Web</strong>, dominando as tecnologias do <strong>Front-end</strong> e visando em me tornar um desenvolvedor <strong>Full-Stack</strong>.</p>
@@ -17,7 +17,7 @@
 	<a href="https://www.instagram.com/eduardzs_/" alt="Instagram">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
      </div>	
-</div><br>
+</div>
     <h1 align="center">GitHub Analytics ⚙️</h1>
 <div align="center">
   <a href="https://github.com/eduardzs">
