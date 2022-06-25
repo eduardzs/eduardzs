@@ -17,7 +17,7 @@
 	<a href="https://www.instagram.com/eduardzs_/" alt="Instagram">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
      </div>	
-</div>
+</div><br>
     <h1 align="center">GitHub Analytics ⚙️</h1>
 <div align="center">
   <a href="https://github.com/eduardzs">
