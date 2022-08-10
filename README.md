@@ -1,4 +1,5 @@
 <div align="center">
+    <img src="https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" alt="Hello, World">
     <h1>Ei, obrigado pela sua visita! 🖖🏿</h1>
 </div>
 
