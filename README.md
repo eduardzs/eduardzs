@@ -1,7 +1,7 @@
 <div align="center">
     <h1></h1>
     <img src="https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" alt="Hello, World">
-</div><h1></h1>
+</div>
 
 <div>
     <div align="center">
