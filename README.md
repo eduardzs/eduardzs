@@ -25,8 +25,8 @@
     <div align="center">
     	<img src="./analytics.png" alt="Github Analytics">
 	  <a href="https://github.com/eduardzs">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eduardzs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=8844EE&icon_color=8844EE&border_color=8844EE"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardzs&layout=compact&langs_count=7&theme=dracula&title_color=8844EE&icon_color=8844EE&border_color=8844EE"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eduardzs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=8844EE&icon_color=8844EE&border_"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardzs&layout=compact&langs_count=7&theme=dracula&title_color=8844EE&icon_color=8844EE&border_"/>
     </div><h1></h1>
 
 
