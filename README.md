@@ -9,7 +9,7 @@
     </div>
     <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Imagem" min-width="400px" max-width="400px" width="400px" align="right">
     <div align="left">
-	<p>📌 No ultimo ano venho estudando o <strong>Desenvolvimento Web</strong>, dominando as tecnologias do <strong>Front-end</strong> e visando em me tornar um desenvolvedor <strong>Full-Stack</strong>.</p>
+	<p>📌 No ultimo ano venho estudando o <strong>Desenvolvimento Web</strong>, dominando as tecnologias do <strong>Front-end</strong> e visando em me formar um desenvolvedor <strong>Full-Stack</strong>.</p>
         <p>🧠 Conhecimentos: <strong>HTML</strong>, <strong>CSS</strong>, <strong>ReactJS</strong>, <strong>NodeJS</strong>, <strong>Git</strong> e <strong>GitHub</strong>.</p>
         <p>📚 Estou sempre em constante aprendizagem e evolução. No momento, estou aberto à novas oportunidades.<p>
         <p>💌 Sinta-se à vontade para me enviar uma mensagem.</p>
