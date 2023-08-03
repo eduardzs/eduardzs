@@ -6,7 +6,7 @@
 
 <div>
     <div align="center">
-    	<img src="./sobre.png" alt="Sobre Mim" width="450px"><br>
+    	<img src="./sobre.png" alt="Sobre Mim" width="500px"><br>
     </div>
     <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Imagem" width="400px" align="right">
     <div align="left">
@@ -24,7 +24,7 @@
 </div><br><hr>
 
 <div align="center">
-	<img src="./analytics.png" alt="Github Analytics" width="450px"><br>
+	<img src="./analytics.png" alt="Github Analytics" width="500px"><br>
 	<a href="https://github.com/eduardzs">
   	<img src="https://github-readme-stats.vercel.app/api?username=eduardzs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=8844EE&icon_color=8844EE&border_color=8844EE" width="390px"/>
   	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardzs&layout=compact&langs_count=7&theme=dracula&title_color=8844EE&icon_color=8844EE&border_color=8844EE" width="350px"/>
@@ -33,7 +33,7 @@
 
 <div align="center">
 	<div align="center">
-    	<img src="./commits.png" alt="Commits" width="450px">
+    	<img src="./commits.png" alt="Commits" width="500px">
 </div><br>
      
 ![Snake animation](https://github.com/eduardzs/eduardzs/blob/output/github-contribution-grid-snake.svg)
@@ -45,7 +45,7 @@
 <br><hr>
     
 <div align="center">
-	<img src="./total.png" alt="Total de Visitas" width="450px"><br><br>
+	<img src="./total.png" alt="Total de Visitas" width="500px"><br><br>
 	<img alingn="center" src="https://profile-counter.glitch.me/eduardzs/count.svg"/>
 </div><hr><br>
         
