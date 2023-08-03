@@ -2,8 +2,10 @@
     <img src="https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" alt="Hello, World" width="750px">
 </div>
 
+<a href="https://www.imagensanimadas.com/cat-linhas-562.htm"><img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0015.gif" border="0" alt="linha-imagem-animada-0015" /></a>
+
 <div>
-    <div align="center"><hr>
+    <div align="center">
     	<img src="./sobre.png" alt="Sobre Mim" width="500px">
     </div>
 	<div align="left">
@@ -19,24 +21,10 @@
 			<a href="https://www.instagram.com/eduardzs_/" alt="Instagram">
 		        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>	
 		</div>
-	</div><hr>
+	</div>
 </div>
 
-<div align="center">
-	<img src="./analytics.png" alt="Github Analytics" width="500px"><br>
-	<a href="https://github.com/eduardzs">
-  	<img src="https://github-readme-stats.vercel.app/api?username=eduardzs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=8844EE&icon_color=8844EE&border_color=8844EE" width="390px"/>
-  	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardzs&layout=compact&langs_count=7&theme=dracula&title_color=8844EE&icon_color=8844EE&border_color=8844EE" width="350px"/>
-</div>
-
-
-<div align="center">
-	<div align="center">
-    	<img src="./commits.png" alt="Commits" width="500px">
-</div>
-     
-![Snake animation](https://github.com/eduardzs/eduardzs/blob/output/github-contribution-grid-snake.svg)
-
+<a href="https://www.imagensanimadas.com/cat-linhas-562.htm"><img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0015.gif" border="0" alt="linha-imagem-animada-0015" /></a>
     
 <div align="center">
 	<img src="./total.png" alt="Total de Visitas" width="500px"><br>
