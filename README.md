@@ -1,8 +1,8 @@
-<hr><br><br>
+<hr><br>
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" alt="Hello, World" height="180em">
-</div><br><br><hr>
+    <img src="https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" alt="Hello, World" width="750px">
+</div><br><hr>
 
 <div>
     <div align="center">
@@ -35,12 +35,8 @@
 	<div align="center">
     	<img src="./commits.png" alt="Commits" height="60em">
 </div><br><br>
-
-
      
 ![Snake animation](https://github.com/eduardzs/eduardzs/blob/output/github-contribution-grid-snake.svg)
-
-
 
 <hr><br><br>
 
