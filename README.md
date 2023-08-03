@@ -3,25 +3,23 @@
 </div>
 
 <div>
-    <div align="center">
+    <div align="center"><hr>
     	<img src="./sobre.png" alt="Sobre Mim" width="500px">
     </div>
 	<div align="left">
-			<div align="right">
-					<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Imagem" width="350px" align="right">
-			</div>
 		<p>📌 Ao longo do último ano, tenho me dedicado intensamente ao estudo do Desenvolvimento Web, aprimorando minhas habilidades no Front-end e almejando me tornar um desenvolvedor Full-Stack.</p>
 		<p>🧠 Possuo conhecimentos sólidos em HTML, CSS, ReactJS, NodeJS, Git e GitHub.</p>
 		<p>📚 Estou sempre em busca de aprendizado contínuo e evolução constante. Neste momento, estou entusiasmado com a perspectiva de explorar novas oportunidades.</p>
 		<p>💌 Sinta-se à vontade para entrar em contato comigo. Estou ansioso para receber sua mensagem!</p>
-		<a href="https://www.linkedin.com/in/eduardzs/">
-		<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-	        <a href="mailto:eduardofonseca0210@gmail.com?" alt="Gmail">
-	        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-		<a href="https://www.instagram.com/eduardzs_/" alt="Instagram">
-	        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>	
-	</div>	
-
+		<div align="center">
+			<a href="https://www.linkedin.com/in/eduardzs/">
+			<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+		        <a href="mailto:eduardofonseca0210@gmail.com?" alt="Gmail">
+		        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+			<a href="https://www.instagram.com/eduardzs_/" alt="Instagram">
+		        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>	
+		</div>
+	</div><hr>
 </div>
 
 <div align="center">
