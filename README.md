@@ -37,8 +37,20 @@
 
 <div align="center">
 	<img src="./analytics.png" alt="Análise de Commits" width="500px"><br>
-	
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eduardzs&theme=dark&border_radius=6.8&locale=pt_BR&date_format=j%20M%5B%20Y%5D&background=0D1117&fire=8844EE&ring=8844EE)](https://git.io/streak-stats)
+	<picture>
+	  <source
+	    media="(prefers-color-scheme: dark)"
+	    srcset="https://raw.githubusercontent.com/eduardzs/snk/output/github-contribution-grid-snake-dark.svg"
+	  />
+	  <source
+	    media="(prefers-color-scheme: light)"
+	    srcset="https://raw.githubusercontent.com/eduardzs/snk/output/github-contribution-grid-snake.svg"
+	  />
+	  <img
+	    alt="github contribution grid snake animation"
+	    src="https://raw.githubusercontent.com/eduardzs/snk/output/github-contribution-grid-snake.svg"
+	  />
+	</picture>
 </div>
 
 <a href="https://www.imagensanimadas.com/cat-linhas-562.htm"><img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0015.gif" border="0" alt="line" width="1000px"/></a>
