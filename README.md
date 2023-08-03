@@ -35,8 +35,12 @@
 	<div align="center">
     	<img src="./commits.png" alt="Commits" height="60em">
 </div><br><br>
-        
+
+
+     
 ![Snake animation](https://github.com/eduardzs/eduardzs/blob/output/github-contribution-grid-snake.svg)
+
+
 
 <hr><br><br>
 
