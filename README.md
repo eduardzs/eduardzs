@@ -8,7 +8,7 @@
     <div align="center">
     	<img src="./sobre.png" alt="Sobre Mim" height="60em"><br><br>
     </div>
-    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Imagem" height="200em" align="right"><br>
+    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Imagem" height="300em" align="right">
     <div align="left">
 	<p>📌 Ao longo do último ano, tenho me dedicado intensamente ao estudo do Desenvolvimento Web, aprimorando minhas habilidades no Front-end e almejando me tornar um desenvolvedor Full-Stack.</p>
 	<p>🧠 Possuo conhecimentos sólidos em HTML, CSS, ReactJS, NodeJS, Git e GitHub.</p>
