@@ -46,7 +46,7 @@
 <div align="center">
 	<img src="./total.png" alt="Total de Visitas" width="500px"><br>
 	<img alingn="center" src="https://profile-counter.glitch.me/eduardzs/count.svg"/>
-</div>
+</div><br>
 
 <a href="https://www.imagensanimadas.com/cat-linhas-562.htm"><img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0015.gif" border="0" alt="line" width="1000px"/></a>
 
