@@ -4,7 +4,7 @@
     <img src="https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" alt="Hello, World" width="600px">
 </div><br><br>
 
-<a href="https://www.imagensanimadas.com/cat-linhas-562.htm"><img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0015.gif" border="0" alt="line" width="100%"/></a>
+<a src="./linha.png" alt="line" width="100%"/></a>
 
 <div>
     <div align="center">
