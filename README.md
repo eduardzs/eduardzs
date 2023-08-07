@@ -2,9 +2,9 @@
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" alt="Hello, World" width="600px">
-</div><br><br>
+</div>
 
-<a src="./linha.png" alt="line" width="100%"/></a>
+<img src="./linha.png" alt="line" width="100%">
 
 <div>
     <div align="center">
@@ -29,7 +29,7 @@
 	</div>
 </div><br>
 
-<a href="https://www.imagensanimadas.com/cat-linhas-562.htm"><img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0015.gif" border="0" alt="line" width="100%"/></a>
+<img src="./linha.png" alt="line" width="100%">
 
 <div align="center">
 	<img src="./analytics.png" alt="Análise de Commits" width="500px"><br>
@@ -37,7 +37,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eduardzs&border_radius=12&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=497&background=0D1117&ring=8844EE&fire=EAFF17&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&dates=A3A3A3&excludeDaysLabel=FFFFFF&sideLabels=FFFFFF&stroke=EAFF17&border=EAFF17)](https://git.io/streak-stats)
 </div>
 
-<a href="https://www.imagensanimadas.com/cat-linhas-562.htm"><img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0015.gif" border="0" alt="line" width="100%"/></a>
+<img src="./linha.png" alt="line" width="100%">
     
 <div align="center">
 	<img src="./total.png" alt="Total de Visitas" width="500px"><br>
