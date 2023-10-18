@@ -36,13 +36,6 @@
 
 
 <a href="https://www.imagensanimadas.com/cat-linhas-562.htm"><img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0184.gif" border="0" alt="linha" width="100%"/></a>
-
-<div align="center">
-	<img src="./commits.png" alt="Commits" width="500px"><br>
-
-![Snake animation](https://github.com/eduardzs/eduardzs/blob/output/github-contribution-grid-snake.svg)
-
-<a href="https://www.imagensanimadas.com/cat-linhas-562.htm"><img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0184.gif" border="0" alt="linha" width="100%"/></a>
     
 <div align="center">
 	<img src="./total.png" alt="Total de Visitas" width="500px"><br>
