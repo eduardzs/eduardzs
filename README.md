@@ -10,7 +10,7 @@
     </div>
 		<p>📌 Ao longo do último ano, tenho me dedicado intensamente ao estudo do Desenvolvimento Web, aprimorando minhas habilidades no Front-end e almejando me tornar um Desenvolvedor Full-Stack.</p>
 		<p>🧠 Possuo conhecimentos sólidos em HTML, CSS, JavaScript, ReactJS, NodeJS, Git e GitHub.</p>
-		<p>📚 Estou sempre em busca de aprendizado contínuo e evolução constante. Neste momento, estou entusiasmado com a perspectiva de explorar novas oportunidades e contribuir para projetos inovadores</p>
+		<p>📚 Estou sempre em busca de aprendizado contínuo e evolução constante. Neste momento, estou entusiasmado com a perspectiva de explorar novas oportunidades e contribuir para projetos inovadores.</p>
 		<p>💌 Sinta-se à vontade para entrar em contato comigo. Estou ansioso para receber sua mensagem!</p>
 		<div align="center">
 			<a href="https://www.linkedin.com/in/eduardzs/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -39,9 +39,10 @@
 
 <div align="center">
 	<img src="./commits.png" alt="Commits" width="500px"><br>
-	<img alingn="center" src="https://profile-counter.glitch.me/eduardzs/count.svg" border="0"/><br><br>
 
 ![Snake animation](https://github.com/eduardzs/eduardzs/blob/output/github-contribution-grid-snake.svg)
+
+<a href="https://www.imagensanimadas.com/cat-linhas-562.htm"><img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0184.gif" border="0" alt="linha" width="100%"/></a>
     
 <div align="center">
 	<img src="./total.png" alt="Total de Visitas" width="500px"><br>
