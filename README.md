@@ -8,13 +8,13 @@
     <div align="center">
     	<img src="./sobre.png" alt="Sobre Mim" width="500px">
     </div>
-		<p>Olá! Sou um entusiasta do Desenvolvimento Web, especializado em criar interfaces de usuário dinâmicas e funcionais para diversas plataformas e dispositivos.
+<p>Olá! Sou um entusiasta do <strong>Desenvolvimento Web</strong>, especializado em criar interfaces de usuário dinâmicas e funcionais para diversas plataformas e dispositivos.
 </p>
-<p>Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade UNINTER, onde estou aprimorando minhas habilidades técnicas. Além disso, dedico tempo aos meus estudos independentes e projetos pessoais, buscando expandir continuamente meu domínio na área e me manter atualizado com as últimas tecnologias e tendências do mercado.
+<p>Atualmente, estou cursando <strong>Análise e Desenvolvimento de Sistemas na Universidade UNINTER</strong>, onde estou aprimorando minhas habilidades técnicas. Além disso, dedico tempo aos meus estudos independentes e projetos pessoais, buscando expandir continuamente meu domínio na área e me manter atualizado com as últimas tecnologias e tendências do mercado.
 </p>
-<p>No último ano, foquei intensamente no Desenvolvimento Web, especialmente no Front-end, com o objetivo de me tornar um Desenvolvedor Full-Stack.
+<p>No último ano, foquei intensamente no <strong>Desenvolvimento Web</strong>, especialmente no <strong>Front-end</strong>, com o objetivo de me tornar um <strong>Desenvolvedor Full-Stack</strong>.
 </p>
-<p>Possuo experiência em HTML, CSS, JavaScript, ReactJS, NodeJS, Git e GitHub.
+<p>Possuo experiência em <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>ReactJS</strong>, <strong>NodeJS</strong>, <strong>Git</strong> e <strong>GitHub</strong>.
 </p>
 <p>Estou sempre em busca de aprendizado e evolução constantes. Neste momento, estou entusiasmado com a perspectiva de explorar novas oportunidades e contribuir para projetos inovadores.
 </p>
