@@ -8,10 +8,18 @@
     <div align="center">
     	<img src="./sobre.png" alt="Sobre Mim" width="500px">
     </div>
-		<p>📌 Ao longo do último ano, tenho me dedicado intensamente ao estudo do Desenvolvimento Web, aprimorando minhas habilidades no Front-end e almejando me tornar um Desenvolvedor Full-Stack.</p>
-		<p>🧠 Possuo conhecimentos sólidos em HTML, CSS, JavaScript, ReactJS, NodeJS, Git e GitHub.</p>
-		<p>📚 Estou sempre em busca de aprendizado contínuo e evolução constante. Neste momento, estou entusiasmado com a perspectiva de explorar novas oportunidades e contribuir para projetos inovadores.</p>
-		<p>💌 Sinta-se à vontade para entrar em contato comigo. Estou ansioso para receber sua mensagem!</p>
+		<p>Olá! Sou um entusiasta do Desenvolvimento Web, especializado em criar interfaces de usuário dinâmicas e funcionais para diversas plataformas e dispositivos.
+</p>
+<p>Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade UNINTER, onde estou aprimorando minhas habilidades técnicas. Além disso, dedico tempo aos meus estudos independentes e projetos pessoais, buscando expandir continuamente meu domínio na área e me manter atualizado com as últimas tecnologias e tendências do mercado.
+</p>
+<p>No último ano, foquei intensamente no Desenvolvimento Web, especialmente no Front-end, com o objetivo de me tornar um Desenvolvedor Full-Stack.
+</p>
+<p>Possuo experiência em HTML, CSS, JavaScript, ReactJS, NodeJS, Git e GitHub.
+</p>
+<p>Estou sempre em busca de aprendizado e evolução constantes. Neste momento, estou entusiasmado com a perspectiva de explorar novas oportunidades e contribuir para projetos inovadores.
+</p>
+	<p>Se você está em busca de um desenvolvedor motivado, sinta-se à vontade para entrar em contato comigo. Estou ansioso para receber sua mensagem!
+</p>
 		<div align="center">
 			<a href="https://www.linkedin.com/in/eduardzs/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 			<a href="https://www.instagram.com/eduardzs_/" alt="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
