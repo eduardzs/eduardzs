@@ -16,7 +16,7 @@
 </p>
 <p>Possuo experiência em <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>ReactJS</strong>, <strong>NodeJS</strong>, <strong>Git</strong> e <strong>GitHub</strong>.
 </p>
-<p>Estou sempre em busca de aprendizado e evolução constantes. Neste momento, estou entusiasmado com a perspectiva de explorar novas oportunidades e contribuir para projetos inovadores.
+<p>Estou sempre em busca de aprendizado e evolução constante. Neste momento, estou entusiasmado com a perspectiva de explorar novas oportunidades e contribuir para projetos inovadores.
 </p>
 	<p>Se você está em busca de um desenvolvedor motivado, sinta-se à vontade para entrar em contato comigo. Estou ansioso para receber sua mensagem!
 </p>
