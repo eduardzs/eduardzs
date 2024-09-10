@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" alt="Hello, World" width="650px">
+    <img src="https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" alt="Hello, World!" width="600px">
 </div>
 
 <div align="center">
@@ -10,11 +10,11 @@
     <img src="./sobre.png" alt="Sobre Mim" width="500px">
 </div><br>
 
-<p>Olá! Sou um entusiasta do <strong>Desenvolvimento Web</strong>, especializado em criar interfaces de usuário dinâmicas e funcionais para diversas plataformas e dispositivos.</p>
+<p>Sou um <strong>Desenvolvedor Web</strong> apaixonado por criar soluções digitais que aliam design inteligente e funcionalidade prática. Minha experiência inclui o desenvolvimento de interfaces de usuário que não apenas atendem, mas superam as expectativas dos usuários, adaptando-se perfeitamente a diferentes plataformas e dispositivos. Estou sempre buscando maneiras inovadoras de resolver problemas e oferecer experiências digitais excepcionais.</p>
 
-<p>Atualmente, estou cursando <strong>Análise e Desenvolvimento de Sistemas na Universidade UNINTER</strong>, onde estou aprimorando minhas habilidades técnicas. Além disso, dedico tempo aos meus estudos independentes e projetos pessoais, buscando expandir continuamente meu domínio na área e me manter atualizado com as últimas tecnologias e tendências do mercado.</p>
+<p>Atualmente, estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Universidade UNINTER</strong>, onde estou aprimorando minhas habilidades técnicas. Além disso, dedico tempo aos meus estudos independentes e projetos pessoais, buscando expandir continuamente meu domínio na área e me manter atualizado com as últimas tecnologias e tendências do mercado.</p>
 
-<p>No último ano, foquei intensamente no <strong>Desenvolvimento Web</strong>, especialmente no <strong>Front-end</strong>, com o objetivo de me tornar um <strong>Desenvolvedor Full-Stack</strong>.</p>
+<p>No último ano, concentrei meus esforços no <strong>Desenvolvimento Web</strong>, especialmente no <strong>Front-end</strong>, com o objetivo de me tornar um <strong>Desenvolvedor Full-Stack</strong>.</p>    
 
 <p align="center"><strong>Linguagens e Tecnologias</strong></p>
 
@@ -36,9 +36,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div><br>
 
-<p>Estou sempre em busca de aprendizado e evolução constante. Neste momento, estou entusiasmado com a perspectiva de explorar novas oportunidades e contribuir para projetos inovadores.</p>
+<p>Estou entusiasmado com a possibilidade de colaborar em projetos inovadores e desafiadores. Se você procura um desenvolvedor dedicado e em constante evolução, vamos conversar!</p>
 
-<p>Se você está em busca de um desenvolvedor motivado, sinta-se à vontade para entrar em contato comigo. Estou ansioso para receber sua mensagem!</p>
+<p>Sinta-se à vontade para entrar em contato comigo. Estou ansioso para receber sua mensagem!</p><br>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/eduardzs/">
@@ -87,7 +87,7 @@
 </div><br>
 
 <div align="center">
-    <img src="./total.png" alt="Total de Visitas" width="500px"><br><br>
+    <img src="./total.png" alt="Total de Visitas" width="500px"><br>
     <img align="center" src="https://profile-counter.glitch.me/eduardzs/count.svg" alt="Contador de Visitas" /><br><br>
     <img align="center" src="animado.gif" alt="GIF Animado"/>
 </div>
