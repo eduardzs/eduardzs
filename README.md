@@ -69,7 +69,7 @@
 </a><br><br>
 
 <div align="center">
-    <img src="./total.png" alt="Total de Visitas" width="500px"><br>
+    <img src="./total.png" alt="Total de Visitas" width="500px"><br><br>
     <img align="center" src="https://profile-counter.glitch.me/eduardzs/count.svg" border="0"/><br><br>
     <img align="center" src="animado.gif" />
 </div>
