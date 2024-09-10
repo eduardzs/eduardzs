@@ -10,11 +10,11 @@
     <img src="./sobre.png" alt="Sobre Mim" width="500px">
 </div><br>
 
-<p>Sou um <strong>Desenvolvedor Web</strong> apaixonado por criar soluções digitais que aliam design inteligente e funcionalidade prática. Minha experiência inclui o desenvolvimento de interfaces de usuário que não apenas atendem, mas superam as expectativas dos usuários, adaptando-se perfeitamente a diferentes plataformas e dispositivos. Estou sempre buscando maneiras inovadoras de resolver problemas e oferecer experiências digitais excepcionais.</p>
+<p>Sou um <strong>Desenvolvedor Web</strong> dedicado a criar soluções digitais que combinam design inteligente e funcionalidade prática. Tenho uma sólida experiência no desenvolvimento de interfaces de usuário que superam as expectativas e se adaptam perfeitamente a diversas plataformas e dispositivos. Estou sempre em busca de maneiras inovadoras para resolver problemas e proporcionar experiências digitais excepcionais.</p>
 
-<p>Atualmente, estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Universidade UNINTER</strong>, onde estou aprimorando minhas habilidades técnicas. Além disso, dedico tempo aos meus estudos independentes e projetos pessoais, buscando expandir continuamente meu domínio na área e me manter atualizado com as últimas tecnologias e tendências do mercado.</p>
+<p>Atualmente, estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Universidade UNINTER</strong>, o que tem me permitido aprofundar minhas habilidades técnicas. Além disso, dedico tempo a estudos independentes e projetos pessoais para expandir continuamente meu conhecimento e me manter atualizado com as últimas tendências e tecnologias do mercado.</p>
 
-<p>No último ano, concentrei meus esforços no <strong>Desenvolvimento Web</strong>, especialmente no <strong>Front-end</strong>, com o objetivo de me tornar um <strong>Desenvolvedor Full-Stack</strong>.</p>    
+<p>No último ano, concentrei meus esforços em <strong>Desenvolvimento Web</strong>, com foco especial no <strong>Front-end</strong>, com o objetivo de me tornar um <strong>Desenvolvedor Full-Stack</strong>. Tenho experiência em <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>ReactJS</strong>, <strong>NodeJS</strong>, <strong>UX/UI Design</strong>, <strong>WordPress</strong>, <strong>Git</strong> e <strong>GitHub</strong>.</p>    
 
 <p align="center"><strong>Linguagens e Tecnologias</strong></p>
 
