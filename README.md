@@ -8,13 +8,13 @@
 
 <div align="center">
     <img src="./sobre.png" alt="Sobre Mim" width="500px">
-</div>
+</div><hr>
 
-<h3 align="center">🌐 Front-end Developer | ReactJS & NodeJS | Social Mídia</h3><hr>
+<h3 align="center">🌐 Front-end Developer | ReactJS & NodeJS | Social Mídia</h3><br>
 
 <p>Sou um <strong>Desenvolvedor Web</strong> dedicado a criar soluções digitais que unem design sofisticado e funcionalidade prática. Com experiência em <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strongReactJS></strong> e <strong>NodeJS</strong>, estou em constante evolução para me tornar um <strong>Desenvolvedor Full-Stack</strong>.</p>
     
-<p>Atualmente, curso <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Universidade UNINTER</strong>, o que tem ampliado minhas habilidades técnicas e aprofundado meu conhecimento na área. Além disso, dedico tempo a estudos independentes e projetos pessoais para expandir continuamente meu conhecimento e me manter atualizado com as últimas tendências e tecnologias.</p>
+<p>Atualmente, curso <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Universidade UNINTER</strong>, o que tem ampliado minhas habilidades técnicas e aprofundado meu conhecimento na área. Além disso, dedico tempo a estudos independentes e projetos pessoais para expandir continuamente meu conhecimento e me manter atualizado com as últimas tendências e tecnologias.</p><br>
 
 <h3>O Que Eu Ofereço:</h3><hr>
 
@@ -26,13 +26,13 @@
 
 <p>🛠️ <strong>Metodologias Ágeis e Melhores Práticas:</strong> Aplicação de práticas ágeis e padrões de codificação para garantir um desenvolvimento eficiente, com código limpo, bem estruturado e fácil de manter.</p>
 
-<p>💻 <strong>Aprendizado Contínuo:</strong> Dedicação ao crescimento pessoal e profissional através de estudos independentes e projetos pessoais, mantendo-me atualizado com as últimas tendências e tecnologias.</p>
+<p>💻 <strong>Aprendizado Contínuo:</strong> Dedicação ao crescimento pessoal e profissional através de estudos independentes e projetos pessoais, mantendo-me atualizado com as últimas tendências e tecnologias.</p><br>
 
 <h3>Objetivos de Carreira:</h3><hr>
 
 <p>🚀 <strong>Especialização Full-Stack:</strong> Busco aprofundar minhas habilidades para atuar como <strong>Desenvolvedor Full-Stack</strong>, integrando expertise em <strong>Front-end</strong> e <strong>Back-end</strong> para desenvolver soluções completas e eficientes.</p>
 
-<p>📈 <strong>Crescimento Profissional:</strong> Estou empenhado em evoluir constantemente, explorando novas tecnologias e metodologias para melhorar minhas competências e enfrentar novos desafios com criatividade e eficiência.</p><hr>
+<p>📈 <strong>Crescimento Profissional:</strong> Estou empenhado em evoluir constantemente, explorando novas tecnologias e metodologias para melhorar minhas competências e enfrentar novos desafios com criatividade e eficiência.</p><br><hr>
 
 <h3 align="center">Habilidades Técnicas:</h3><br>
 
@@ -52,7 +52,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div><hr>
+</div><br><hr>
 
 <p>Estou empolgado para contribuir com minhas habilidades em uma equipe que valoriza inovação e crescimento contínuo. Se você está procurando um desenvolvedor comprometido e em constante evolução, adoraria conversar com você!</p><br>
 
