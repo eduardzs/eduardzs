@@ -1,5 +1,9 @@
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" alt="Hello, World!" width="600px">
+   <img src="./line.gif" alt="linha"/>
+</div><br>
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" alt="Hello, World!" width="500px">
 </div>
 
 <div align="center">
@@ -7,16 +11,16 @@
 </div><br>
 
 <div align="center">
-    <img src="./sobre.png" alt="Sobre Mim" width="500px">
-</div><hr>
+    <img src="./sobre.png" alt="Sobre Mim" width="400px">
+</div>
 
-<h3 align="center">🌐 Front-end Developer | ReactJS & NodeJS | Social Mídia</h3><br>
+<h2>🌐 Front-end Developer | ReactJS & NodeJS | Social Mídia</h2>
 
 <p>Sou um <strong>Desenvolvedor Web</strong> dedicado a criar soluções digitais que unem design sofisticado e funcionalidade prática. Com experiência em <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strongReactJS></strong> e <strong>NodeJS</strong>, estou em constante evolução para me tornar um <strong>Desenvolvedor Full-Stack</strong>.</p>
     
 <p>Atualmente, curso <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Universidade UNINTER</strong>, o que tem ampliado minhas habilidades técnicas e aprofundado meu conhecimento na área. Além disso, dedico tempo a estudos independentes e projetos pessoais para expandir continuamente meu conhecimento e me manter atualizado com as últimas tendências e tecnologias.</p><br>
 
-<h3>O Que Eu Ofereço:</h3><hr>
+<h2>O Que Eu Ofereço:</h2>
 
 <p>🚀 <strong>Desenvolvimento Front-End:</strong> Expertise em <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> e <strong>ReactJS</strong>, transformando designs criativos em interfaces web responsivas e intuitivas.</p>
 
@@ -28,13 +32,13 @@
 
 <p>💻 <strong>Aprendizado Contínuo:</strong> Dedicação ao crescimento pessoal e profissional através de estudos independentes e projetos pessoais, mantendo-me atualizado com as últimas tendências e tecnologias.</p><br>
 
-<h3>Objetivos de Carreira:</h3><hr>
+<h2>Objetivos de Carreira:</h2>
 
 <p>🚀 <strong>Especialização Full-Stack:</strong> Busco aprofundar minhas habilidades para atuar como <strong>Desenvolvedor Full-Stack</strong>, integrando expertise em <strong>Front-end</strong> e <strong>Back-end</strong> para desenvolver soluções completas e eficientes.</p>
 
 <p>📈 <strong>Crescimento Profissional:</strong> Estou empenhado em evoluir constantemente, explorando novas tecnologias e metodologias para melhorar minhas competências e enfrentar novos desafios com criatividade e eficiência.</p><br>
 
-<h3>Habilidades Técnicas:</h3><hr>
+<h2>Habilidades Técnicas:</h2><br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -79,7 +83,7 @@
 </div><br>
 
 <div align="center">
-    <img src="./analytics.png" alt="Análise de Commits" width="500px">
+    <img src="./analytics.png" alt="Análise de Commits" width="400px">
 </div><br>
 
 <div align="center">
@@ -103,7 +107,7 @@
 </div><br>
 
 <div align="center">
-    <img src="./total.png" alt="Total de Visitas" width="500px"><br>
+    <img src="./total.png" alt="Total de Visitas" width="400px"><br>
     <img align="center" src="https://profile-counter.glitch.me/eduardzs/count.svg" alt="Contador de Visitas" /><br><br>
     <img align="center" src="animado.gif" alt="GIF Animado"/>
 </div>
