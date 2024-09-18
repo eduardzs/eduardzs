@@ -14,7 +14,7 @@
     <img src="./sobre.png" alt="Sobre Mim" width="400px">
 </div>
 
-<h2>🌐 Front-end Developer | ReactJS & NodeJS | Social Mídia</h2>
+<h2>🌐 Front-end Developer | ReactJS | NodeJS | JavaScript</h2>
 
 <p>Sou um <strong>Desenvolvedor Web</strong> dedicado a criar soluções digitais que unem design sofisticado e funcionalidade prática. Com experiência em <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strongReactJS></strong> e <strong>NodeJS</strong>, estou em constante evolução para me tornar um <strong>Desenvolvedor Full-Stack</strong>.</p>
     
