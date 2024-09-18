@@ -14,6 +14,8 @@
     <img src="./sobre.png" alt="Sobre Mim" width="400px">
 </div>
 
+<h2>⭐ Front-end Developer</h2>
+
 <p>Sou um <strong>Desenvolvedor Web</strong> dedicado a criar soluções digitais que unem design sofisticado e funcionalidade prática. Com experiência em <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strongReactJS></strong> e <strong>NodeJS</strong>, estou em constante evolução para me tornar um <strong>Desenvolvedor Full-Stack</strong>.</p>
     
 <p>Atualmente, curso <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Universidade UNINTER</strong>, o que tem ampliado minhas habilidades técnicas e aprofundado meu conhecimento na área. Além disso, dedico tempo a estudos independentes e projetos pessoais para expandir continuamente meu conhecimento e me manter atualizado com as últimas tendências e tecnologias.</p>
