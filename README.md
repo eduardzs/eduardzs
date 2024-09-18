@@ -14,7 +14,7 @@
     <img src="./sobre.png" alt="Sobre Mim" width="400px">
 </div>
 
-<h2>⭐ Desenvolvedor Web | Front-end Developer</h2>
+<h2>⭐ Front-end Developer</h2>
 
 <p>Sou um <strong>Desenvolvedor Web</strong> dedicado a criar soluções digitais que unem design elegante e funcionalidade eficaz. Com experiência em <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>ReactJS</strong> e <strong>NodeJS</strong>, meu objetivo é evoluir continuamente e me tornar um <strong>Desenvolvedor Full-Stack</strong>.</p>
     
