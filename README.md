@@ -14,21 +14,21 @@
     <img src="./sobre.png" alt="Sobre Mim" width="400px">
 </div>
 
-<h2>⭐ Front-end Developer</h2>
+<h2>⭐ Desenvolvedor Web | Front-end Developer</h2>
 
-<p>Sou um <strong>Desenvolvedor Web</strong> dedicado a criar soluções digitais que unem design sofisticado e funcionalidade prática. Com experiência em <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strongReactJS></strong> e <strong>NodeJS</strong>, estou em constante evolução para me tornar um <strong>Desenvolvedor Full-Stack</strong>.</p>
+<p>Sou um <strong>Desenvolvedor Web</strong> dedicado a criar soluções digitais que unem design elegante e funcionalidade eficaz. Com experiência em <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>ReactJS</strong> e <strong>NodeJS</strong>, meu objetivo é evoluir continuamente e me tornar um <strong>Desenvolvedor Full-Stack</strong>.</p>
     
-<p>Atualmente, curso <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Universidade UNINTER</strong>, o que tem ampliado minhas habilidades técnicas e aprofundado meu conhecimento na área. Além disso, dedico tempo a estudos independentes e projetos pessoais para expandir continuamente meu conhecimento e me manter atualizado com as últimas tendências e tecnologias.</p>
+<p>Atualmente, estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Universidade UNINTER</strong>, o que está ampliando minhas habilidades técnicas e aprofundando meu conhecimento na área. Além disso, dedico tempo ao desenvolvimento de projetos pessoais e estudos independentes para me manter atualizado com as últimas tendências e tecnologias.</p>
 
 <h2>O Que Eu Ofereço:</h2>
 
-<p>🚀 <strong>Desenvolvimento Front-End:</strong> Expertise em <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> e <strong>ReactJS</strong>, transformando designs criativos em interfaces web responsivas e intuitivas.</p>
+<p>🚀 <strong>Desenvolvimento Front-End</strong>: Expertise em <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> e <strong>ReactJS</strong>, transformo designs criativos em interfaces web responsivas e intuitivas.</p>
 
-<p>🔧 <strong>Integração Full-Stack:</strong> Experiência com <strong>NodeJS</strong> para criar soluções completas que integram front-end e back-end de maneira eficiente.</p>
+<p>⚙️ <strong>Integração Full-Stack</strong>: Experiência com <strong>NodeJS</strong> para desenvolver soluções completas que integram <strong>Front-end</strong> e <strong>Back-end</strong> de forma eficiente.</p>
 
-<p>🌟 <strong>Design e Experiência do Usuário: </strong>Foco em <strong>UX/UI Design</strong> para garantir que cada projeto ofereça uma experiência de usuário fluida e envolvente, com interfaces que não apenas funcionam bem, mas também ofereça uma experiência agradável e envolvente para o usuário.</p>
+<p>🎨 <strong>Design e Experiência do Usuário</strong>: Foco em <strong>UX/UI Design</strong> para garantir que cada projeto ofereça uma experiência de usuário fluida e envolvente, com interfaces que não apenas funcionam bem, mas também ofereça uma experiência agradável e envolvente para o usuário.</p>
 
-<p>🛠️ <strong>Metodologias Ágeis e Melhores Práticas:</strong> Aplicação de práticas ágeis e padrões de codificação para garantir um desenvolvimento eficiente, com código limpo, bem estruturado e fácil de manter.</p>
+<p>🛠️ <strong>Metodologias Ágeis e Melhores Práticas</strong>: Aplicação de práticas ágeis e padrões de codificação para garantir um desenvolvimento eficiente, com código limpo, bem estruturado e fácil de manter.</p>
 
 <p>💻 <strong>Aprendizado Contínuo:</strong> Dedicação ao crescimento pessoal e profissional através de estudos independentes e projetos pessoais, mantendo-me atualizado com as últimas tendências e tecnologias.</p>
 
