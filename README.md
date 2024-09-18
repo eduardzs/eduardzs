@@ -18,7 +18,7 @@
 
 <p>Sou um <strong>Desenvolvedor Web</strong> dedicado a criar soluções digitais que unem design sofisticado e funcionalidade prática. Com experiência em <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strongReactJS></strong> e <strong>NodeJS</strong>, estou em constante evolução para me tornar um <strong>Desenvolvedor Full-Stack</strong>.</p>
     
-<p>Atualmente, curso <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Universidade UNINTER</strong>, o que tem ampliado minhas habilidades técnicas e aprofundado meu conhecimento na área. Além disso, dedico tempo a estudos independentes e projetos pessoais para expandir continuamente meu conhecimento e me manter atualizado com as últimas tendências e tecnologias.</p><br>
+<p>Atualmente, curso <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Universidade UNINTER</strong>, o que tem ampliado minhas habilidades técnicas e aprofundado meu conhecimento na área. Além disso, dedico tempo a estudos independentes e projetos pessoais para expandir continuamente meu conhecimento e me manter atualizado com as últimas tendências e tecnologias.</p>
 
 <h2>O Que Eu Ofereço:</h2>
 
@@ -30,13 +30,13 @@
 
 <p>🛠️ <strong>Metodologias Ágeis e Melhores Práticas:</strong> Aplicação de práticas ágeis e padrões de codificação para garantir um desenvolvimento eficiente, com código limpo, bem estruturado e fácil de manter.</p>
 
-<p>💻 <strong>Aprendizado Contínuo:</strong> Dedicação ao crescimento pessoal e profissional através de estudos independentes e projetos pessoais, mantendo-me atualizado com as últimas tendências e tecnologias.</p><br>
+<p>💻 <strong>Aprendizado Contínuo:</strong> Dedicação ao crescimento pessoal e profissional através de estudos independentes e projetos pessoais, mantendo-me atualizado com as últimas tendências e tecnologias.</p>
 
 <h2>Objetivos de Carreira:</h2>
 
 <p>🚀 <strong>Especialização Full-Stack:</strong> Busco aprofundar minhas habilidades para atuar como <strong>Desenvolvedor Full-Stack</strong>, integrando expertise em <strong>Front-end</strong> e <strong>Back-end</strong> para desenvolver soluções completas e eficientes.</p>
 
-<p>📈 <strong>Crescimento Profissional:</strong> Estou empenhado em evoluir constantemente, explorando novas tecnologias e metodologias para melhorar minhas competências e enfrentar novos desafios com criatividade e eficiência.</p><br>
+<p>📈 <strong>Crescimento Profissional:</strong> Estou empenhado em evoluir constantemente, explorando novas tecnologias e metodologias para melhorar minhas competências e enfrentar novos desafios com criatividade e eficiência.</p>
 
 <h2>Habilidades Técnicas:</h2><br>
 
