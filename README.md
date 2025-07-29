@@ -18,7 +18,7 @@
 
 <p>Sou um <strong>Desenvolvedor Web</strong> dedicado a criar soluções digitais que unem design elegante e funcionalidade eficaz. Com experiência em <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>ReactJS</strong> e <strong>NodeJS</strong>, meu objetivo é evoluir continuamente e me tornar um <strong>Desenvolvedor Full-Stack</strong>.</p>
     
-<p>Atualmente, estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Universidade UNINTER</strong>, o que está ampliando minhas habilidades técnicas e aprofundando meu conhecimento na área. Além disso, dedico tempo ao desenvolvimento de projetos pessoais e estudos independentes para me manter atualizado com as últimas tendências e tecnologias.</p>
+<p>Atualmente, estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Universidade UNINTER</strong>, o que está ampliando minhas habilidades técnicas e aprofundando meu conhecimento na área. Além disso, dedico tempo ao desenvolvimento de projetos pessoais e estudos independentes para me manter atualizado com as últimas tendências e tecnologias.</p><br>
 
 <h2>💡 O Que Eu Ofereço:</h2>
 
@@ -30,13 +30,13 @@
 
 <p>🛠️ <strong>Metodologias Ágeis e Melhores Práticas</strong>: Aplicação de práticas ágeis e padrões de codificação para garantir um desenvolvimento eficiente, com código limpo, bem estruturado e fácil de manter.</p>
 
-<p>💻 <strong>Aprendizado Contínuo:</strong> Dedicação ao crescimento pessoal e profissional através de estudos independentes e projetos pessoais, mantendo-me atualizado com as últimas tendências e tecnologias.</p>
+<p>💻 <strong>Aprendizado Contínuo:</strong> Dedicação ao crescimento pessoal e profissional através de estudos independentes e projetos pessoais, mantendo-me atualizado com as últimas tendências e tecnologias.</p><br>
 
 <h2>🎯 Objetivos de Carreira:</h2>
 
 <p>🚀 <strong>Especialização Full-Stack:</strong> Busco aprofundar minhas habilidades para atuar como <strong>Desenvolvedor Full-Stack</strong>, integrando expertise em <strong>Front-end</strong> e <strong>Back-end</strong> para desenvolver soluções completas e eficientes.</p>
 
-<p>📈 <strong>Crescimento Profissional:</strong> Estou empenhado em evoluir constantemente, explorando novas tecnologias e metodologias para melhorar minhas competências e enfrentar novos desafios com criatividade e eficiência.</p>
+<p>📈 <strong>Crescimento Profissional:</strong> Estou empenhado em evoluir constantemente, explorando novas tecnologias e metodologias para melhorar minhas competências e enfrentar novos desafios com criatividade e eficiência.</p><br>
 
 <h2>🧠 Habilidades Técnicas:</h2><br>
 
@@ -56,7 +56,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
-</div><br><br>
+</div><br>
 
 <p align="center">📬 Estou pronto para contribuir com minhas habilidades em equipes que valorizam inovação, aprendizado e colaboração. Vamos conversar?</p><br>
 
@@ -83,7 +83,7 @@
 </div><br>
 
 <div align="center">
-    <img src="./assets/images/analytics.png" alt="Análise de Commits" width="400px">
+    <img src="./assets/images/analytics.png" alt="Análise de Commits" width="500px">
 </div><br>
 
 <div align="center">
@@ -92,7 +92,7 @@
     </a>
     <a href="https://github.com/eduardzs">
         <img width="400px" src="http://github-readme-streak-stats.herokuapp.com?user=eduardzs&border_radius=12&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=497&background=0D1117&ring=8844EE&fire=EAFF17&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&dates=A3A3A3&excludeDaysLabel=FFFFFF&sideLabels=FFFFFF&stroke=EAFF17&border=EAFF17&card_width=437" alt="GitHub Streak Stats">
-    </a><br><br>
+    </a><br><br><br>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardzs/eduardzs/output/pacman-contribution-graph-dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardzs/eduardzs/output/pacman-contribution-graph.svg">
@@ -105,7 +105,7 @@
 </div><br>
 
 <div align="center">
-    <img src="./assets/images/total.png" alt="Total de Visitas" width="400px"><br>
+    <img src="./assets/images/total.png" alt="Total de Visitas" width="500px"><br>
     <img src="https://profile-counter.deno.dev/:eduardzs:/count.svg" alt="Contador de Visitas"/><br><br>
     <img src="./assets/gif/animado.gif" alt="GIF Animado"/>
 </div>
