@@ -11,7 +11,7 @@
 </div><br>
 
 <div align="center">
-    <img src="./assets/images/sobre.png" alt="Sobre Mim" width="400px">
+    <img src="./assets/images/sobre.png" alt="Sobre Mim" width="500px">
 </div>
 
 <h2>⭐ Front-end Developer</h2>
@@ -26,7 +26,7 @@
 
 <p>⚙️ <strong>Integração Full-Stack</strong>: Experiência com <strong>NodeJS</strong> para desenvolver soluções completas que integram <strong>Front-end</strong> e <strong>Back-end</strong> de forma eficiente.</p>
 
-<p>🎨 <strong>Design e Experiência do Usuário</strong>: Foco em <strong>UX/UI Design</strong> para garantir que cada projeto ofereça uma experiência de usuário fluida e envolvente, com interfaces que não apenas funcionam bem, mas também ofereça uma experiência agradável e envolvente para o usuário.</p>
+<p>🎨 <strong>Design e Experiência do Usuário</strong>: Foco em <strong>UX/UI Design</strong> para garantir que cada projeto proporcione uma experiência de usuário fluida e imersiva, com interfaces que não apenas funcionam bem, mas também sejam agradáveis, intuitivas e marcantes para quem as utiliza.</p>
 
 <p>🛠️ <strong>Metodologias Ágeis e Melhores Práticas</strong>: Aplicação de práticas ágeis e padrões de codificação para garantir um desenvolvimento eficiente, com código limpo, bem estruturado e fácil de manter.</p>
 
@@ -58,7 +58,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
 </div><br><br>
 
-<p align="center">📬 Estou empolgado para contribuir com minhas habilidades em uma equipe que valoriza inovação e crescimento contínuo. Se você está procurando um desenvolvedor comprometido e em constante evolução, adoraria conversar com você!</p><br>
+<p align="center">📬 Estou pronto para contribuir com minhas habilidades em equipes que valorizam inovação, aprendizado e colaboração. Vamos conversar?</p><br>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/eduardzs/">
