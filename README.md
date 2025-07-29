@@ -92,7 +92,7 @@
     </a>
     <a href="https://github.com/eduardzs">
         <img width="400px" src="http://github-readme-streak-stats.herokuapp.com?user=eduardzs&border_radius=12&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=497&background=0D1117&ring=8844EE&fire=EAFF17&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&dates=A3A3A3&excludeDaysLabel=FFFFFF&sideLabels=FFFFFF&stroke=EAFF17&border=EAFF17&card_width=437" alt="GitHub Streak Stats">
-    </a>
+    </a><br><br>
     <div align="center">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardzs/eduardzs/output/pacman-contribution-graph-dark.svg">
@@ -108,6 +108,6 @@
 
 <div align="center">
     <img src="./assets/images/total.png" alt="Total de Visitas" width="400px"><br>
-    <img align="center" src="https://profile-counter.glitch.me/eduardzs/count.svg" alt="Contador de Visitas" /><br><br>
-    <img align="center" src="animado.gif" alt="GIF Animado"/>
+   <img align="center" src="https://profile-counter.deno.dev/:eduardzs:/count.svg" alt="Key:: Contador de Visitas" /><br><br>
+    <img align="center" src="./assets/gif/animado.gif" alt="GIF Animado"/>
 </div>
