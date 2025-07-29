@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="./assets/gif/line.gif" alt="Line"/>
+   <img src="https://raw.githubusercontent.com/eduardzs/eduardzs/main/assets/gif/line.gif" alt="Line"/>
 </div><br>
 
 <div align="center">
@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-   <img src="./assets/gif/line.gif" alt="Line"/>
+   <img src="https://raw.githubusercontent.com/eduardzs/eduardzs/main/assets/gif/line.gif" alt="Line"/>
 </div><br>
 
 <div align="center">
@@ -79,7 +79,7 @@
 </div><br>
 
 <div align="center">
-   <img src="./assets/gif/line.gif" alt="Line"/>
+   <img src="https://raw.githubusercontent.com/eduardzs/eduardzs/main/assets/gif/line.gif" alt="Line"/>
 </div><br>
 
 <div align="center">
@@ -101,7 +101,7 @@
 </div>
 
 <div align="center">
-   <img src="./assets/gif/line.gif" alt="Line"/>
+   <img src="https://raw.githubusercontent.com/eduardzs/eduardzs/main/assets/gif/line.gif" alt="Line"/>
 </div><br>
 
 <div align="center">
