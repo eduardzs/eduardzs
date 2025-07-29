@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="./line.gif" alt="linha"/>
+   <img src="./assets/gif/line.gif" alt="linha"/>
 </div><br>
 
 <div align="center">
@@ -7,11 +7,11 @@
 </div>
 
 <div align="center">
-   <img src="./line.gif" alt="linha"/>
+   <img src="./assets/gif/line.gif" alt="linha"/>
 </div><br>
 
 <div align="center">
-    <img src="./sobre.png" alt="Sobre Mim" width="400px">
+    <img src="./assets/images/sobre.png" alt="Sobre Mim" width="400px">
 </div>
 
 <h2>⭐ Front-end Developer</h2>
@@ -79,11 +79,11 @@
 </div><br>
 
 <div align="center">
-   <img src="./line.gif" alt="linha"/>
+   <img src="./assets/gif/line.gif" alt="linha"/>
 </div><br>
 
 <div align="center">
-    <img src="./analytics.png" alt="Análise de Commits" width="400px">
+    <img src="./assets/images/analytics.png" alt="Análise de Commits" width="400px">
 </div><br>
 
 <div align="center">
@@ -103,20 +103,11 @@
 </div><br>
 
 <div align="center">
-   <img src="./line.gif" alt="linha"/>
+   <img src="./assets/gif/line.gif" alt="linha"/>
 </div><br>
 
 <div align="center">
-    <img src="./total.png" alt="Total de Visitas" width="400px"><br>
+    <img src="./assets/images/total.png" alt="Total de Visitas" width="400px"><br>
     <img align="center" src="https://profile-counter.glitch.me/eduardzs/count.svg" alt="Contador de Visitas" /><br><br>
     <img align="center" src="animado.gif" alt="GIF Animado"/>
 </div>
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardzs/eduardzs/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardzs/eduardzs/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardzs/eduardzs/output/pacman-contribution-graph.svg">
-</picture>
-
-###
