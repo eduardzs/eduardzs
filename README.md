@@ -94,11 +94,11 @@
         <img width="400px" src="http://github-readme-streak-stats.herokuapp.com?user=eduardzs&border_radius=12&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=497&background=0D1117&ring=8844EE&fire=EAFF17&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&dates=A3A3A3&excludeDaysLabel=FFFFFF&sideLabels=FFFFFF&stroke=EAFF17&border=EAFF17&card_width=437" alt="GitHub Streak Stats">
     </a>
     <div align="center">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardzs/eduardzs/output/github-contribution-grid-snake-dark.svg">
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardzs/eduardzs/output/github-contribution-grid-snake.svg">
-            <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eduardzs/eduardzs/output/github-contribution-grid-snake.svg">
-        </picture>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardzs/eduardzs/output/pacman-contribution-graph-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardzs/eduardzs/output/pacman-contribution-graph.svg">
+        <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardzs/eduardzs/output/pacman-contribution-graph.svg">
+      </picture>
     </div>
 </div><br>
 
@@ -111,3 +111,12 @@
     <img align="center" src="https://profile-counter.glitch.me/eduardzs/count.svg" alt="Contador de Visitas" /><br><br>
     <img align="center" src="animado.gif" alt="GIF Animado"/>
 </div>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardzs/eduardzs/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardzs/eduardzs/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardzs/eduardzs/output/pacman-contribution-graph.svg">
+</picture>
+
+###
