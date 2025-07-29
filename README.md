@@ -16,27 +16,27 @@
 
 <h2>⭐ Front-end Developer</h2>
 
-<p>Sou um <strong>Desenvolvedor Web</strong> apaixonado por transformar ideias em experiências digitais. Trabalho com <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>ReactJS</strong> e <strong>NodeJS</strong>, buscando evoluir constantemente para me tornar um <strong>Desenvolvedor Full-Stack</strong>.</p>
+<p>Sou um <strong>Desenvolvedor Web</strong> dedicado a criar soluções digitais que unem design elegante e funcionalidade eficaz. Com experiência em <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>ReactJS</strong> e <strong>NodeJS</strong>, meu objetivo é evoluir continuamente e me tornar um <strong>Desenvolvedor Full-Stack</strong>.</p>
     
-<p>Atualmente curso <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>UNINTER</strong>, o que tem ampliado minhas habilidades técnicas e visão de projeto. Também invisto tempo em projetos pessoais e estudos independentes, sempre atento às últimas tendências do mercado.</p>
+<p>Atualmente, estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Universidade UNINTER</strong>, o que está ampliando minhas habilidades técnicas e aprofundando meu conhecimento na área. Além disso, dedico tempo ao desenvolvimento de projetos pessoais e estudos independentes para me manter atualizado com as últimas tendências e tecnologias.</p>
 
 <h2>💡 O Que Eu Ofereço:</h2>
 
-<p>🚀 <strong>Front-End Moderno:</strong> Transformo designs criativos em interfaces web responsivas, usando <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> e <strong>ReactJS</strong>.</p>
+<p>🚀 <strong>Desenvolvimento Front-End</strong>: Expertise em <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> e <strong>ReactJS</strong>, transformo designs criativos em interfaces web responsivas e intuitivas.</p>
 
-<p>⚙️ <strong>Integração Full-Stack:</strong> Experiência com <strong>NodeJS</strong> no desenvolvimento de soluções completas, unindo front-end e back-end.</p>
+<p>⚙️ <strong>Integração Full-Stack</strong>: Experiência com <strong>NodeJS</strong> para desenvolver soluções completas que integram <strong>Front-end</strong> e <strong>Back-end</strong> de forma eficiente.</p>
 
-<p>🎨 <strong>UX/UI Design:</strong> Criação de interfaces funcionais e visualmente envolventes, com foco em uma experiência de usuário fluida e intuitiva.</p>
+<p>🎨 <strong>Design e Experiência do Usuário</strong>: Foco em <strong>UX/UI Design</strong> para garantir que cada projeto ofereça uma experiência de usuário fluida e envolvente, com interfaces que não apenas funcionam bem, mas também ofereça uma experiência agradável e envolvente para o usuário.</p>
 
-<p>🛠️ <strong>Boas Práticas:</strong> Aplicação de metodologias ágeis e padrões de código limpo, visando manutenibilidade, eficiência e qualidade.</p>
+<p>🛠️ <strong>Metodologias Ágeis e Melhores Práticas</strong>: Aplicação de práticas ágeis e padrões de codificação para garantir um desenvolvimento eficiente, com código limpo, bem estruturado e fácil de manter.</p>
 
-<p>📚 <strong>Aprendizado Contínuo:</strong> Sempre aprendendo por meio de cursos, projetos próprios e novas tecnologias.</p>
+<p>💻 <strong>Aprendizado Contínuo:</strong> Dedicação ao crescimento pessoal e profissional através de estudos independentes e projetos pessoais, mantendo-me atualizado com as últimas tendências e tecnologias.</p>
 
 <h2>🎯 Objetivos de Carreira:</h2>
 
-<p>🚀 <strong>Full-Stack Completo:</strong> Aprofundar conhecimentos para atuar de ponta a ponta no desenvolvimento web.</p>
+<p>🚀 <strong>Especialização Full-Stack:</strong> Busco aprofundar minhas habilidades para atuar como <strong>Desenvolvedor Full-Stack</strong>, integrando expertise em <strong>Front-end</strong> e <strong>Back-end</strong> para desenvolver soluções completas e eficientes.</p>
 
-<p>📈 <strong>Evolução Profissional:</strong> Crescer continuamente, enfrentando novos desafios com criatividade, resiliência e inovação.</p>
+<p>📈 <strong>Crescimento Profissional:</strong> Estou empenhado em evoluir constantemente, explorando novas tecnologias e metodologias para melhorar minhas competências e enfrentar novos desafios com criatividade e eficiência.</p>
 
 <h2>🧠 Habilidades Técnicas:</h2><br>
 
@@ -58,7 +58,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
 </div><br><br>
 
-<p>📬 Estou aberto a colaborações e oportunidades! Se você busca um desenvolvedor focado, proativo e em constante evolução, vamos conversar!</p><br>
+<p align="center">📬 Estou empolgado para contribuir com minhas habilidades em uma equipe que valoriza inovação e crescimento contínuo. Se você está procurando um desenvolvedor comprometido e em constante evolução, adoraria conversar com você!</p><br>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/eduardzs/">
@@ -98,7 +98,7 @@
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardzs/eduardzs/output/pacman-contribution-graph.svg">
         <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardzs/eduardzs/output/pacman-contribution-graph.svg">
     </picture>
-</div><br>
+</div>
 
 <div align="center">
    <img src="./assets/gif/line.gif" alt="Line"/>
