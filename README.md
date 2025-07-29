@@ -107,5 +107,5 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/eduardzs/eduardzs/main/assets/images/total.png" alt="Total de Visitas" width="400px"><br>
     <img src="https://profile-counter.deno.dev/:eduardzs:/count.svg" alt="Contador de Visitas"/><br><br>
-    <img src="./assets/gif/animado.gif" alt="GIF Animado"/>
+    <img src="https://raw.githubusercontent.com/eduardzs/eduardzs/main/assets/gif/animado.gif" alt="GIF Animado"/>
 </div>
