@@ -11,7 +11,7 @@
 </div><br>
 
 <div align="center">
-    <img src="./assets/images/sobre.png" alt="Sobre Mim" width="500px">
+    <img src="./assets/images/sobre.png" alt="Sobre Mim" width="400px">
 </div>
 
 <h2>⭐ Front-end Developer</h2>
@@ -83,7 +83,7 @@
 </div><br>
 
 <div align="center">
-    <img src="./assets/images/analytics.png" alt="Análise de Commits" width="500px">
+    <img src="./assets/images/analytics.png" alt="Análise de Commits" width="400px">
 </div><br>
 
 <div align="center">
@@ -105,7 +105,7 @@
 </div><br>
 
 <div align="center">
-    <img src="./assets/images/total.png" alt="Total de Visitas" width="500px"><br>
+    <img src="./assets/images/total.png" alt="Total de Visitas" width="400px"><br>
     <img src="https://profile-counter.deno.dev/:eduardzs:/count.svg" alt="Contador de Visitas"/><br><br>
     <img src="./assets/gif/animado.gif" alt="GIF Animado"/>
 </div>
