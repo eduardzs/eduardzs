@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-💻 Web Developer focused on building responsive and well-structured interfaces with modern front-end technologies.
+💻 **Web Developer** focused on responsive interfaces and modern web applications.
 
 🎓 Graduated in **Systems Analysis and Development**, currently pursuing a postgraduate degree in **DevOps and Cloud Architecture**.
 
