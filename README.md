@@ -3,32 +3,16 @@
 </div>
 
 <div align="center">
-   <h3>🌐 Web Developer | DevOps & Cloud</h3>
+   <h3>💻 Web Developer | Front-end | DevOps & Cloud</h3>
 </div>
 
 ## 🚀 About Me
 
-💻 **Web Developer** focused on responsive interfaces and modern web applications.
+💻 Web Developer focused on Front-end, working on the creation of modern, responsive, and functional interfaces with React and JavaScript.
 
-🎓 Graduated in **Systems Analysis and Development**, currently pursuing a postgraduate degree in **DevOps and Cloud Architecture**.
+🎓 Degree in Systems Analysis and Development, currently pursuing a postgraduate degree in DevOps and Cloud Architecture.
 
-🛠️ Background in **IT Support and Network Infrastructure**, with hands-on experience in networking, system maintenance, and real-world troubleshooting.
-
-## 💡 What I Do
-
-🌐 Build responsive and interactive web interfaces using **HTML, CSS, JavaScript, and React**
-
-🎨 Apply **UI/UX principles** to create clean and user-friendly experiences
-
-☁️ Expanding knowledge in **DevOps and Cloud environments**
-
-## 🎯 Current Focus
-
-🚀 Developing skills to build complete web applications, connecting front-end with backend and cloud solutions
-
-☁️ Learning DevOps and cloud concepts, focusing on scalability, automation, and infrastructure
-
-📈 Continuously studying and building projects to improve as a developer
+🛠️ Experience in IT Support and Network Infrastructure, working with computer networks, system maintenance, troubleshooting, and technical support in real-world environments.
 
 ## 🧠 Tech Stack
 
