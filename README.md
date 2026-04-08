@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-   <h3>💻 Web Developer | Front-end | DevOps & Cloud</h3>
+   <h3>💻 Web Developer | DevOps & Cloud</h3>
 </div>
 
 ## 🚀 About Me
